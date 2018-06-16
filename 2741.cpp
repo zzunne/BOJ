@@ -4,5 +4,5 @@ int main() {
 	scanf_s("%d", &n);
 	for (int i = 0; i < n; i++)
 		printf("%d\n", i + 1);
-	return 0;
+	return 0; 
 }
