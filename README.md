@@ -12,6 +12,7 @@
 * **2739번** 구구단 https://www.acmicpc.net/problem/2739  
 * **2741번** N 찍기 https://www.acmicpc.net/problem/2741  
 * **2742번** 기찍 N https://www.acmicpc.net/problem/2742  
+* **4344번** 평균은 넘겠지 https://www.acmicpc.net/problem/4344  
 * **7287번** 등록 https://www.acmicpc.net/problem/7287  
 * **8393번** 합 https://www.acmicpc.net/problem/8393  
 * **9498번** 시험 성적 https://www.acmicpc.net/problem/9498  
